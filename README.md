@@ -1,1 +1,2 @@
-# MGSC695-Optimization-Assignments
+# Optimization Assignments
+Included in this repository are my responses to the course assignments focusing on Optimization for Data Science. The assignments include the creation of machine learning algorithms from scratch, leveraging Python and NumPy. Additionally, they involve evaluating the efficacy of these custom implementations by contrasting them with equivalent methods available in the scikit-learn library.
